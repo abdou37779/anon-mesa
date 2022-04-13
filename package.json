@@ -1,0 +1,22 @@
+{
+  "name": "anon-mesa",
+  "version": "1.0.0",
+  "description": "atnak",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdou37779/anon-mesa.git"
+  },
+  "author": "abdou37779",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdou37779/anon-mesa/issues"
+  },
+  "homepage": "https://github.com/abdou37779/anon-mesa#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
