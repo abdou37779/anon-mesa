@@ -1,7 +1,7 @@
 var userId = Math.floor(Math.random() * 9999999).toString()
 var lasttimeupdate = new Date().getTime()
 //send message
-function sendMessage() {
+sendMessage = function () {
 	var data = {
 		username: $('#username').val() || userId,
 		message: $('#message').val()
@@ -13,7 +13,7 @@ function sendMessage() {
 }
 
 
-$('#message-button').click(sendMessage());
+$('#message-button').click(sendMessage);
 $('#message').on('keypress',function(e) {
     if(e.which == 13) {
         sendMessage()

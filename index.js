@@ -39,7 +39,7 @@ app.post('/postmessage', function (req,res,next) {
 	var clearName = msgData.username.replace(/#@#/g , " ")
 	var clearMessage = msgData.message.replace(/#@#/g , " ")
 
-	var line = "<div class=\"messagebox\">" +clearName + ":" + clearMessage + "</div>\n"
+	var line = "<div class=\"messagebox\"> <div class=\"messageid\"> " +clearName + "</div>" + clearMessage + "</div>\n"
 	fs.appendFileSync(pathTo('ooopop.txt'),line)
 	lastmessagetime = new Date().getTime()
 	res.send('done')

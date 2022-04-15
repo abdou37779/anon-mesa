@@ -1,21 +1,24 @@
-<div class="messagebox">2101001:nikmok</div>
-<div class="messagebox">1180254:atnak</div>
-<div class="messagebox">1180254:nikmok</div>
-<div class="messagebox">1180254:fewfwefwe</div>
-<div class="messagebox">1180254:wef</div>
-<div class="messagebox">1180254:wefwefwef</div>
-<div class="messagebox">sadsad:wefwef</div>
-<div class="messagebox">zac:wefwefewr</div>
-<div class="messagebox">zac:ewfwef</div>
-<div class="messagebox">zac:gregtrh</div>
-<div class="messagebox">zac:nikmok</div>
-<div class="messagebox">sadsad:nikrabk</div>
-<div class="messagebox">3886121:</div>
-<div class="messagebox">3886121:atnako</div>
-<div class="messagebox">3886121:kima rakom</div>
-<div class="messagebox">3886121:tnako</div>
-<div class="messagebox">2109684:</div>
-<div class="messagebox">2109684:wefwfwf</div>
-<div class="messagebox">2109684:</div>
-<div class="messagebox">2109684:regergerg</div>
-<div class="messagebox">2109684:ergertfdg</div>
+<div class="messagebox"> <div class="messageid"> 9650744</div>ergertre</div>
+<div class="messagebox"> <div class="messageid"> 9650744</div>tyjtyjtyj</div>
+<div class="messagebox"> <div class="messageid"> 9650744</div>tyjfghrty</div>
+<div class="messagebox"> <div class="messageid"> 9650744</div>hfghfghrty</div>
+<div class="messagebox"> <div class="messageid"> rthtrh</div>rthrthrt</div>
+<div class="messagebox"> <div class="messageid"> rthtrh</div>tyjtyjty</div>
+<div class="messagebox"> <div class="messageid"> Lukas</div>lmfao</div>
+<div class="messagebox"> <div class="messageid"> Lukas</div>hey anon</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>nikmok</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>is it working</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>stay anonym ya wjh zab</div>
+<div class="messagebox"> <div class="messageid"> Lukas</div>sma7li</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>what's the point of writing ur name</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>haw golna sma7li</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>what is this tho</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>and why is it ugly</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>cuz idc</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>why is it refreshing the dom every .5 seconds </div>
+<div class="messagebox"> <div class="messageid"> 650828</div>i have it on github u can make it look not so ugly</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>okay watch me</div>
+<div class="messagebox"> <div class="messageid"> anon-007</div>what's the repo</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>cuz m too lazy to setup a two ways connections....</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>wait</div>
+<div class="messagebox"> <div class="messageid"> 650828</div>osbor i need to push it</div>

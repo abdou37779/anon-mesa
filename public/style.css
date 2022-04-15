@@ -1,36 +1,72 @@
+body{
+	font-family:"Lucida Console";
+}
+
 #mesages-pad{
 	background: #111;
 	position: absolute;
 	top :60px;
 	bottom: 30px;
-	width: 100%;
+	left:20px;
+	right:20px;
+	overflow-y:auto;
 }
 #header{
 	background: #333;
 	position: absolute;
 	top :0px;
 	height: 60px;
-	width: 100%;
+	left:20px;
+	right:20px;
 }
 #header> #title{
-	height: 20px;
+	height: 30px;
 	font-size: 20px;
+	color: #fff;
 }
 
 #footer{
 	background: #222;
 	position: absolute;
 	bottom :0px;
-	height: 30px;
-	width: 100%;
+	height: 40px;
+	left:20px;
+	right:20px;
 }
 
+#message {
+	width: calc(100% - 60px);
+	height: 35px;
+}
+
+
 #message-button{
-	background: #ea3;
+	width: 40px;
+	background: #c81;
 	color: #eee;
+	border: 0;
+	box-shadow: none;
+	border-radius: 3px;
+	padding: 0;
+	height: 35px;
+}
+
+#message-button:active {
+  color: #c81;
+  background: #eee;
 }
 
 #mesages-pad{
 	font-size: 20px;
+	color:  #ed9;
+}
+
+.messagebox{
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.messageid{
+	font-size: 15px;
 	color:  #ea3;
 }
